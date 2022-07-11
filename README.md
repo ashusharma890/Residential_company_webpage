@@ -7,4 +7,4 @@ Images are attached for reference & download purpose as well in images folder.
 
 HTML code is in index.html file & the CSS styling is done in the style.css file !
 
-<img src="https://user-images.githubusercontent.com/81765508/178151979-229054b4-75a5-4c7b-a8c3-2c7bbf5f017a.png">
+<img src="https://user-images.githubusercontent.com/81765508/178315399-6cdaf5ab-76d2-4d8f-b0d8-5fa99cc2a51b.png">
